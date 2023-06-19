@@ -1,0 +1,19 @@
+{
+  "build": {
+    "production": {
+      "env": {
+        "API_KEY": "AIzaSyC715WZg9-Kk8txOVcBoGCAjm2Xa5rExeo",
+        "AUTH_DOMAIN": "rn-login-3849b.firebaseapp.com",
+        "PROJECT_ID": "rn-login-3849b",
+        "STORAGE_BUCKET": "rn-login-3849b.appspot.com",
+        "MESSAGING_SENDER_ID": "146489863032",
+        "APP_ID": "1:146489863032:web:5125baf6bb03621a3a768d",
+        "MEASUREMENT_ID": "G-D3VPFH0GCL"
+      }
+    },
+    "test": {
+      "distribution": "internal",
+      "extends": "production"
+    }
+  }
+}
